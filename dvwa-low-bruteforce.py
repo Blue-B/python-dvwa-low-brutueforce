@@ -9,7 +9,7 @@ params = {'username':'',
           'Login':'Login'}
 
 
-with open('C:\\Users\\root\\Downloads\\pw.txt', 'r') as f:
+with open('C:\\Users\\YOUR USER\\Downloads\\pw.txt', 'r') as f:
     pwline = f.readlines()
 
 passwords =[]
