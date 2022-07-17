@@ -1,7 +1,7 @@
 import requests
 
 URL="http://127.0.0.1/dvwa/vulnerabilities/brute/"
-cookies = {'PHPSESSID': 'd0p9dcb46gevv04npif5k0i858',
+cookies = {'PHPSESSID': 'ur cokkie',
            'security': 'low'}
 
 params = {'username':'',
